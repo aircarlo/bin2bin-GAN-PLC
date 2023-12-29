@@ -1,11 +1,9 @@
 # bin2bin-GAN-PLC
-This repository will contain the official implementation of the *bin2bin* framework, described in "_A Time-Frequency Generative Adversarial based method for Audio Packet Loss Concealment_"
+This repository contains the official Generator and Discriminator models of *bin2bin*, described in "[_A Time-Frequency Generative Adversarial based method for Audio Packet Loss Concealment_](https://arxiv.org/abs/2307.15611)"
 
 <p align="center">
   <img src="/img/specs_h3.png" width="760">
 </p>
-
-The code will be published upon the paper acceptance.
 
 Below are some listening samples of the proposed generative inpainting method. LOSSY versions are corrupted with 40% of lost packets.
 
